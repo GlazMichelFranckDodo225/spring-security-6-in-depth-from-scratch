@@ -12,7 +12,7 @@
 	<artifactId>spring-security-6-in-depth-from-scratch</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-security-6-in-depth-from-scratch</name>
-	<description>Spring Security 6 in Depth from Scratch</description>
+	<description>Spring Security 6 in Depth from Scratch | Spring Boot 3</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
